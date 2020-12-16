@@ -19,8 +19,8 @@ body {
     display: grid;
     grid-template-areas: 'azul amarelo''verde vermelho';
     grid-gap: 10px;
-    border: 0.5px solid #ffffff;
-    background-color: #ffffff;
+    border: 35px solid #000000;
+    background-color:#000000;
     border-radius: 100%;
     width: 700px;
     height: 700px;

@@ -33,7 +33,7 @@ let lightColor = (element, number) => {
     }, number - 250);
     setTimeout(() => {
         element.classList.remove('selected')
-    });
+    }, number - 50);
 }
 
 //Checa se os botões clicados são os mesmos da ordem gerada no jogo
